@@ -81,3 +81,9 @@ plt.ylabel('Price')
 plt.legend()
 plt.show()
 st.pyplot(fig4)
+
+st.markdown("""
+<div style='text-align: center; font-size: 20px; margin-top: 50px;'>
+    © Copyright 2024 . All rights reserved.
+</div>
+""", unsafe_allow_html=True)
