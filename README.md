@@ -1,5 +1,9 @@
 # Stock Market Price Prediction Web Application
 
+## View the live website 
+Click the link to view the website 
+https://stock-price-predictor-using-ml.onrender.com/
+
 ## Project Overview
 
 This project demonstrates an end-to-end web application developed in Python for predicting stock market prices. Leveraging machine learning techniques, the application provides predictions for future stock prices based on historical data. The project integrates data collection, model training, and web interface functionalities, offering a complete solution for stock market price forecasting.
