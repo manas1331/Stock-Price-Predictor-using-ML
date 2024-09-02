@@ -51,8 +51,12 @@ This project demonstrates an end-to-end web application developed in Python for 
 - Navigate to  http://localhost:5000 (or the specified port) to access the web application.
 - Input stock ticker symbols and view predictions and visualizations.
 
-## Website Pages
-![image](https://github.com/user-attachments/assets/3f7b0732-19ea-4e97-9de5-13d6e48b1001)
+## Website View
+![image](https://github.com/user-attachments/assets/2fc7ca6a-8f06-457b-b570-eb1219cef555)
+
+
+![image](https://github.com/user-attachments/assets/ab5c970a-47f2-40b7-b6f6-de586ca841c0)
+
 
 
 ## Contributing
