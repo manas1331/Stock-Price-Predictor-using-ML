@@ -63,4 +63,4 @@ This project demonstrates an end-to-end web application developed in Python for 
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests. Please adhere to the project's coding standards and include tests for any new features.
 
 ## License
-This project is licensed under the APACHE 2.0 License. See the LICENSE file for more details
+This project is licensed under the APACHE 2.0 License. See the [LICENSE](LICENSE) file for more details
