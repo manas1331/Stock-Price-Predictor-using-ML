@@ -59,7 +59,7 @@ This project demonstrates an end-to-end web application developed in Python for 
 
 
 
-## Contributing
+## Contribution
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests. Please adhere to the project's coding standards and include tests for any new features.
 
 ## License
