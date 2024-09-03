@@ -2,7 +2,7 @@
 
 ## View the live website 
 Click the link to view the website 
-https://stock-price-predictor-using-ml.onrender.com/
+[https://stock-price-predictor-using-ml.onrender.com/](https://stock-price-predictor-using-ml.onrender.com/)
 
 ## Project Overview
 
