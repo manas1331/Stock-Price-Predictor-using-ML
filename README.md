@@ -45,7 +45,7 @@ This project demonstrates an end-to-end web application developed in Python for 
 
  4. **Run the Web Application**:
     ```bash
-    python app.py
+    streamlit run app.py
 
  5. **Usage**:
 - Navigate to  http://localhost:5000 (or the specified port) to access the web application.
